@@ -14,7 +14,10 @@ This project was initially inspired by shared curiosity about what impacts playe
     How are superstar player statistics valued versus role player statistics?
 
 ### Tools:
-Python for Data Cleaning, Data Transformation, Data Visualization and Data Analysis.
+Python for Data Cleaning, Data Transformation, Data Visualization and Data Analysis in Google Colab. The following libraries were used:
+
+    Pandas for Data Cleaning/Transformation
+    Altair for Data Visualization.
 
 ### Datasets:
 This project involved two different datasets, one focused on NBA Player Salaries, and the other focused on NBA Player Stats. Both are publicly available at the links below:
